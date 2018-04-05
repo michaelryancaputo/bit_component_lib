@@ -1,0 +1,11 @@
+{
+    "env": {
+        "compiler": "none",
+        "tester": "none"
+    },
+    "dependencies": {
+        "flashpunk.trying_again/components/test_component": "0.0.2"
+    },
+    "componentsDefaultDirectory": "src/{namespace}/{name}",
+    "packageManager": "yarn"
+}
